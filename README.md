@@ -48,7 +48,7 @@ Annual payment - Mobile
 ## Links
 
 - GitHub Repository: https://github.com/your-username/pricing-component-with-toggle
-- Live Demo: https://your-username.github.io/pricing-component-with-toggle/
+- Live Demo: https://troy71.github.io/pricing-component-with-toggle
 
 ## Built With
 
